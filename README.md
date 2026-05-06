@@ -1,9 +1,14 @@
-# adaptive-resource-allocation-system
-A Python-based system that dynamically monitors and adjusts CPU and memory allocation among processes to optimize system performance.
+# Adaptive Resource Allocation System
 
-## For windows users
-just run the batch file to start after cloning repo
+A Python-based system that dynamically monitors and adjusts CPU and memory allocation among processes to optimize overall system performance.
 
+## For Windows Users
 
-## Run manually
-Run python run_gui.py on terminal.
+After cloning the repository, simply run the batch file to start the application.
+
+## Run Manually
+
+Run the following command in the terminal:
+
+```bash
+python run_gui.py
